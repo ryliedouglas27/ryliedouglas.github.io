@@ -5,7 +5,8 @@ I'm a Data Analytics specialist based in Brisbane with 5+ years of experience tu
 🎓 Education
 
 Master of Data Analytics, Monash University (High Distinction, 3x Outstanding Achievement Award)
-Bachelor of Science & Bachelor of Economics, University of Queensland
+
+Bachelor of Science (Mathematics) & Bachelor of Economics (Quantitative Methods), University of Queensland
 
 💼 Currently
 
